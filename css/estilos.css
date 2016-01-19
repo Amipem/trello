@@ -1,0 +1,587 @@
+body{
+    font-family:"jaf-facitweb","Helvetica Neue",Arial,sans-serif;
+    margin: 0;
+    width: 100%;
+    /*background-color:blueviolet;*/
+}
+
+.principal{
+    margin-top: 6%;
+    margin-left: 1%;
+    width: 98%; 
+    /*background-color: beige;*/
+}
+
+#contenedor{
+    padding-top: 1%;
+    margin-top: 1%;
+   /* background-color:cadetblue;*/
+}
+
+.trello{
+    margin-top: 1%;
+    margin-left: 39%;
+}
+
+#subtitulo{
+    margin: 0 auto;
+   /* background-color: aqua;*/
+    width:71%;
+}
+
+.sub{
+    font-family: "jaf-facitweb","Helvetica Neue",Arial,sans-serif;
+    font-size: 40px;
+    text-align: center;
+    color: #4D4D4D;
+}
+
+#info{
+    margin: 0 auto;
+    width: 50%;
+   /* background-color: azure;*/
+    font-family: "jaf-facitweb","Helvetica Neue",Arial,sans-serif;
+    color: #4D4D4D;
+    font-size: 22px;
+    font-weight: 100;
+    line-height: 1 px;
+    text-align: center;
+}
+
+.btnRegistrarse{
+    background: transparent linear-gradient(to bottom, #61BD4F 0px, #5AAC44 100%) repeat scroll 0% 0%;
+    box-shadow: 0px 2px 0px #3F6F21;
+    color: #FFF;
+    border-radius: 0.3em;
+    display: inline-block;
+        font-weight: bold;
+    margin-bottom: 0.8em;
+    padding: 0.6em 1.3em;
+    position: relative;
+    text-decoration: none;
+    border: 0px none;
+    text-align: center;
+    font-family: "jaf-facitweb","Helvetica Neue",Arial,sans-serif;
+    font-size: 20px;
+    margin-left: 40%;
+}
+.btnRegistrarse:hover {
+    background:#3F6F21;
+    cursor: pointer;
+}
+#sesion{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.login{
+    margin-left: 30%;
+    text-align: center;
+    padding: 1em 2em;
+    background: transparent none repeat scroll 0% 0%;
+    font-size: 20px;
+    color: #999;
+    font-weight: 300;
+    line-height: 1.44em;
+}
+
+a.login:hover{
+    color: #333;
+    outline: 0px none;
+}
+
+.parte2{
+    padding-top: 4%;
+    margin-top: 4%;
+    background: #0079BF none repeat scroll 0% 0%;
+color: #FFF;
+}
+    
+#infolistas{
+   
+    margin-top: 3%;
+    margin-left: 23%;
+    margin-right: 23%;
+    font-family: "jaf-facitweb","Helvetica Neue",Arial,sans-serif;
+    font-size: 24px;
+    text-align:justify;
+    font-weight: 300;
+line-height: 1.44em;
+}
+
+#tablero{
+    margin-left: 3%;
+    width: 94%;
+}
+
+#imgtablero{
+    box-sizing: border-box;
+    max-width: 100%;
+    padding: 2em 3em;
+}
+
+#infotrabajo{
+    padding-bottom: 4%;
+    width: 45%;
+    margin-left: 26%;
+    font-weight: 300;
+    line-height: 1.44em;
+    font-family: "jaf-facitweb","Helvetica Neue",Arial,sans-serif;
+    font-size: 20px;
+    text-align:left;
+}
+
+strong {
+    font-weight: bold;
+}
+
+.parte3{
+    margin: 0 auto;
+}
+
+#funcionalidad{
+    width: 100%;
+}
+
+#textfunc1{
+    padding-top: 4%;
+    margin-left: 25%;
+    width: 44%;
+    text-align: center;
+    font-size: 20px;
+    font-family: "jaf-facitweb","Helvetica Neue",Arial,sans-serif;
+    font-weight: 300;
+    line-height: 1.44em;
+}
+
+#textfunc2{
+    margin-left: 34%;
+    width: 40%;
+   
+}
+
+.hacer{
+    border: 1px solid;
+    border-radius: 0.3em;
+    display: inline-block;
+    margin: 0.6em 0px;
+    padding: 0.6em 1em;
+    text-decoration: none;
+    color: #5E98BA;
+    background: transparent none repeat scroll 0% 0%;
+    text-align: center;
+    font-size: 20px;
+    font-family: "jaf-facitweb","Helvetica Neue",Arial,sans-serif;
+    font-weight: 300;
+    line-height: 1.44em;
+}
+
+
+a.hacer:hover {
+  color: #2E2EFE;
+}
+
+#secimggpart3{
+    padding-top: 3%;
+    width: 70%;
+    margin-left: 15%;
+}
+
+#imgpart3{
+    width: 100%;
+}
+
+.parte4{
+    padding-top: 1%;
+}
+
+#app{
+    margin-top: 1%;
+    width: 100%;
+    background-color: #E4F0F6;
+    position:absolute;
+}
+
+#secimgpart4a{
+  float: right;  
+  padding-top: 3%;
+  width: 40%;    
+  /*margin-left: 63%;*/
+  /*background-color: black;*/
+}
+
+#img4a{
+    max-width: initial;
+    display: block;
+    margin: 1em auto;
+   vertical-align: middle;
+    border: 0px none;
+    margin-left: 13%;
+}
+
+#infoapp{
+    padding-top: 5%;
+   /* background-color: chocolate;*/
+    width: 43%;
+   float: right;
+    
+   
+}
+
+#txtapps{
+    font-size: 20px;
+    font-family: "jaf-facitweb","Helvetica Neue",Arial,sans-serif;
+    color: #4D4D4D;
+    font-weight: 300;
+    line-height: 1.44em;
+    /*background-color: coral;*/
+}
+
+#logosapp{
+    width: 43%;
+   /* background-color:crimson;*/
+    position:absolute;
+}
+
+#appstore{
+    float: left;
+ 
+    
+}
+#img4b{
+    height: 54px;
+margin: 0px;
+    display: block;  
+}
+#gplay{
+    float: right;
+    
+}
+
+#img4c{
+  	height: 54px;
+	margin: 0px;  
+    display: block;
+    margin-right: 55%;
+}
+
+#ver{
+    
+    margin-top: 9%;
+    padding-top: 9%;
+    padding-bottom: 10%;
+}
+
+.veraplicaciones{
+    border: 1px solid;
+	border-radius: 0.3em;
+	display: inline-block;
+	margin: 0.9em 0px;
+	padding: 0.7em 1em;
+	text-decoration: none;
+    color: #5E98BA;
+    background: transparent none repeat scroll 0% 0%;
+}
+
+a.veraplicaciones:hover{
+    color: #265773;
+        outline: 0px none;
+}
+
+#potenciadores{
+    width: 100%;
+    margin-top: 35%;
+    position:absolute;
+    height: 47%;
+}
+
+#tablero2{
+    float: left;
+    font-size: 20px;
+    width: 43%;
+    margin-left: 17%;
+    padding-top: 3%;
+   font-family: "jaf-facitweb","Helvetica Neue",Arial,sans-serif;
+        
+color: #4D4D4D;
+}
+
+#calendario{
+   float: right;     
+}
+
+#imgcalendario{
+    padding-top: 9%;
+    display: block;
+    margin-right: 35%;
+}
+
+.parte5{
+    align-items: baseline;
+    margin-top: 60%;
+    padding-top: 4%;
+    width: 100%;
+    background-color: #0079BF;
+   
+}
+
+
+#empresas{
+    width: 80%; 
+    margin-left: 10%;
+    
+}
+
+
+#texemp{
+    margin-top: 4%;
+    text-align: center;
+    font-size: 20px;
+    font-family:  "jaf-facitweb","Helvetica Neue",Arial,sans-serif;
+    font-weight: 300;
+    color: #FFF;
+    line-height: 1.44em;
+}
+#logemp{
+    list-style-position: outside;
+    width: 100%;
+    text-align: center;
+    padding-bottom: 9%;
+}
+#imgfresh{
+    height: 60px;
+    display: inline-block;
+    margin: 0px 1em 1em;
+    max-width: initial;
+    vertical-align: middle;
+    border: 0px none;
+}	
+
+#imgthe{
+   height: 60px;
+    display: inline-block;
+    margin: 0px 1em 1em;
+    max-width: initial;
+    vertical-align: middle;
+    border: 0px none;
+}
+#img53{
+     height: 60px;
+    display: inline-block;
+    margin: 0px 1em 1em;
+    max-width: initial;
+    vertical-align: middle;
+    border: 0px none;
+}
+#imgthev{
+     height: 60px;
+    display: inline-block;
+    margin: 0px 1em 1em;
+    max-width: initial;
+    vertical-align: middle;
+    border: 0px none;
+}
+#imgadobe{
+     height: 60px;
+    display: inline-block;
+    margin: 0px 1em 1em;
+    max-width: initial;
+    vertical-align: middle;
+    border: 0px none;
+}
+#imgtum{
+     height: 60px;
+    display: inline-block;
+    margin: 0px 1em 1em;
+    max-width: initial;
+    vertical-align: middle;
+    border: 0px none;
+}
+#imggoo{
+     height: 60px;
+    display: inline-block;
+    margin: 0px 1em 1em;
+    max-width: initial;
+    vertical-align: middle;
+    border: 0px none;
+}
+#imgpay{
+     height: 60px;
+    display: inline-block;
+    margin: 0px 1em 1em;
+    max-width: initial;
+    vertical-align: middle;
+    border: 0px none;
+}
+#imgkick{
+     height: 60px;
+    display: inline-block;
+    margin: 0px 1em 1em;
+    max-width: initial;
+    vertical-align: middle;
+    border: 0px none;
+}
+
+.parte6{
+    background:#42548E none repeat scroll 0% 0%;
+    padding-top: 1%;
+}
+
+#negocios{
+    position: absolute;
+    background:#42548E none repeat scroll 0% 0%;
+    width: 100%;
+    padding-bottom: 5%;
+}
+
+#trellobusiness{
+	margin-top:4%;
+    width: 25%;
+    height: 10%;
+    float: left;
+    display: block;
+    margin-left: 7%;
+}
+#imgbusiness{
+    width: 100%;
+    max-width: initial;
+    display: block;
+    margin: 1em auto;
+    vertical-align: middle;
+    border: 0px none;
+}
+#adm{
+    font-size: 20px;
+    font-family: "jaf-facitweb","Helvetica Neue",Arial,sans-serif;
+    font-weight: 300;
+    line-height: 1.44em;
+    color: #FFF;
+    margin-left: 35%;
+    margin-top: 5%;
+    width: 45%;
+  
+}
+
+.class1{
+    border: 1px solid;
+	border-radius: 0.3em;
+	display: inline-block;
+	margin: 0.6em 0px;
+	padding: 0.6em 1em;
+	text-decoration: none;
+    color: rgba(255, 255, 255, 0.8);
+}
+a.class1:hover{
+    background: transparent none repeat scroll 0% 0%;
+    color:antiquewhite;
+}
+
+.parte7{
+	padding-top:1%;
+	/*background-color: orange;*/
+	padding-bottom: 5%;
+}
+#notas{
+	margin-top:30%;
+	margin-left: 25%;
+    width: 44%;
+    text-align: center;
+    font-size: 20px;
+    font-family: "jaf-facitweb","Helvetica Neue",Arial,sans-serif;
+    font-weight: 300;
+    line-height: 1.44em;
+    color: #4D4D4D;
+}
+
+
+.btnRegistrarse2{
+    background: transparent linear-gradient(to bottom, #61BD4F 0px, #5AAC44 100%) repeat scroll 0% 0%;
+    box-shadow: 0px 2px 0px #3F6F21;
+    color: #FFF;
+    border-radius: 0.3em;
+    display: inline-block;
+    font-weight: bold;
+    margin-bottom: 0.8em;
+    padding: 0.6em 1.3em;
+    position: relative;
+    text-decoration: none;
+    border: 0px none;
+    text-align: center;
+    font-family: "jaf-facitweb","Helvetica Neue",Arial,sans-serif;
+    font-size: 20px;
+    margin-left: 40%;
+}
+.btnRegistrarse2:hover {
+    background:#3F6F21;
+    cursor: pointer;
+}
+
+.parte8{
+	background: #0079BF none repeat scroll 0% 0%;
+}
+
+#taco{
+	width:100%;
+	background: #0079BF none repeat scroll 0% 0%;
+	position:absolute;
+	padding-bottom:3%;
+}
+
+#mascota{
+	float:left;
+	width: 16%;
+	margin-left: 24%;
+	margin-top: 4%
+}
+#infotaco{
+	margin-top:7%;
+	width: 	43%;
+	text-align: left;
+	margin-left: 30%;
+	color: #FFF;
+	    font-size: 20px;
+	    font-family: "jaf-facitweb","Helvetica Neue",Arial,sans-serif;
+	
+}
+
+.pie{
+    padding-top: 5%;
+    width: 100%;
+    margin-top: 22%;
+    display: block;
+    color: #999;
+    padding-bottom: 4%;
+}
+footer {
+    /*font-size: 1.0em;*/
+    font-size: 16px;
+font-weight: 300;
+line-height: 1.44em;
+    text-align: center;
+    font-family: "jaf-facitweb","Helvetica Neue",Arial,sans-serif;
+color: #4D4D4D;
+}
+footer ul{
+    list-style: outside none none;
+    margin: 0.5em 0px 0px;
+    padding: 0px;
+}
+
+footer li {
+    display: inline-block;
+    margin: 0px 0.4em;
+}
+
+.pie a {
+   background: transparent none repeat scroll 0% 0%;
+    color: #999;
+}
+
+.pie a:hover{
+    
+    color: #333;
+   /* color: #4D4D4D;*/
+}
+#translate{
+    margin-left: 3%;
+    margin-right: 3%;
+}
